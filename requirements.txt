@@ -1,0 +1,9 @@
+# Direct dependencies; select a PyTorch build compatible with your CUDA setup.
+# Versions are not pinned because this environment has not been validated.
+torch
+numpy
+pandas
+pyarrow
+datasets
+transformers
+peft
